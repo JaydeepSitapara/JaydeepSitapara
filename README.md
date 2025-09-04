@@ -8,7 +8,7 @@ I’m a passionate Flutter developer with 1+ year of experience building mobile 
 - Flutter & Dart  
 - Firebase, REST API Integration  
 - State Management (Provider, BLoC)  
-- SQLite, Hive, SharedPreferences  
+- SQLite, SharedPreferences  
 
 ### 📱 Featured Projects:
 - **Quotes App** – Random quotes with API integration & swipe-down gesture  
