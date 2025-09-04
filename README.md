@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Jaydeep  
 
 🚀 **Flutter Developer | Cross-Platform Mobile Apps**  
